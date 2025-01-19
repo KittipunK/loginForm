@@ -1,0 +1,15 @@
+.main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(
+        45deg,
+        rgb(27, 66, 151),
+        20%,
+        rgba(33, 137, 185, 0.568),
+        rgba(44, 122, 224, 0.74) 50%,
+        rgb(8, 185, 132),
+        rgba(189, 253, 115, 0.582)
+    );
+}
